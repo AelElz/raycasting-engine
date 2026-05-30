@@ -158,17 +158,6 @@ Although restrictive, these constraints improve real-world engineering skills:
 
 ---
 
-## Screenshots / Demo
-
-Add screenshots or GIFs of gameplay here:
-
-```
-<img width="2875" height="1612" alt="render" src="https://github.com/user-attachments/assets/ad7ce06e-2be5-4578-bc07-ca4ea0dcaf7c" />
-
-```
-
----
-
 ## Future Improvements
 
 * Sprite rendering (objects inside the world)
